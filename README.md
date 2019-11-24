@@ -1,6 +1,12 @@
 # FFmpegStudy
 FFmpeg Study
 
-## About 
+## About
 
-FFmpeg API 的学习，包括 SDL2 以及 C++ 的学习，以及 OpenCV。
+学习 & demo
+
+* FFmpeg
+* SDL2
+* C++
+* OpenCV
+* OpenGL
