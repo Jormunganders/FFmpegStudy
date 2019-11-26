@@ -7,7 +7,7 @@ include_directories(include/)
 link_directories(libs/)
 
 set(SOURCE_FILES
-        src/main.cpp src/avformat_use.h src/sdl_use.h src/audio_use.h)
+        src/main.cpp src/avformat_use.h src/sdl_use.h src/audio_use.h src/sdl_video.h)
 
 add_executable(ffmpeg
         ${SOURCE_FILES})
